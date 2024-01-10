@@ -1,2 +1,1 @@
-# tkinter_scripts
-A bunch of functions which can ease building GUI with modern inputs
+This method can select values from tkinter Listbox by pressing the first letter. It can also cycle to same first letter names.
